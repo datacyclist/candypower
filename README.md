@@ -27,7 +27,7 @@ in drei Gruppen ein: top/medium/bottom (25/50/25%).
 	recht einseitige idealistische Betrachtung der Beliebtheit, die die
 	Randbedingungen eines Supermarkts total vernachlässigt.
 
-## Clustering oder graphischer Drilldown
+## Clustering / graphischer Drilldown
 
 Bevor ich zur Regression komme, kam erst die Idee mit der Gruppenbildung. Gibt
 es, basierend auf den Produkteigenschaften, ähnliche Produkte, die dann auch
@@ -42,7 +42,7 @@ Was wird gesucht? Gruppen mit möglichst vielen blauen Produkten oder mit
 möglichst vielen roten Punkten, d.h. mit Eigenschaften, die auf beliebte
 Produkte zutreffen und welchen, die auf unbeliebte Produkte zutreffen.
 
-![Produkte und Eigenschaften](figs/20220126_clusters-products-properties.png)
+<img src="figs/20220126_clusters-products-properties.png" width="400">
 
 
 
