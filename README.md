@@ -44,7 +44,9 @@ Produkte zutreffen und welchen, die auf unbeliebte Produkte zutreffen. Wenn
 einzelne Gruppen z.B. nur blaue oder nur rote Produkte enthalten, ist die
 zugehörige Eigenschaft ein sehr sicherer Hinweis zur Beliebtheit.
 
-![](<figs/20220126_clusters-products-properties.png>)
+
+<img alt="test" src="figs/20220126_clusters-products-properties.png?raw=true" height="250">
+
 
 
 
