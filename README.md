@@ -118,7 +118,12 @@ in den hier verwendeten Produkten voraus.
 
 ## Weitere Ideen und Kommentare
 
-- Für ähnliche Analysen sollte man sicher Verkaufszahlen (Umsatz/Stückzahl) von eigenen Produkten verwenden.
-- Das Labeling der Produktdaten mit den gewünschten Eigenschaften sollte von Hand gemacht werden.
+- Für ähnliche Analysen sollte man sicher Verkaufszahlen (Umsatz/Stückzahl) von
+	eigenen Produkten verwenden.
+- Das Labeling der Produktdaten mit den gewünschten Eigenschaften sollte von
+	Hand gemacht werden.
+- Umfragen sind wichtig, um auch negative Präferenzen der Käufer zu bekommen --
+	Umsätze und Verkäufe drücken ja nur positive Präferenzen aus, ich weiss
+	üblicherweise nicht, warum jemand ein Produkt **nicht** kauft.
 - Es sollte *Pernigotti Gianduia Nero* permanent eingelistet werden.
 - ...
