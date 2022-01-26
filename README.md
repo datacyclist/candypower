@@ -100,7 +100,7 @@ Dasselbe wie vorher kann man hier auch nochmal machen, indem man die künstlich 
 Eigenschaften hinzufügt. Dann sind die Eingabevariablen für die Regression allerdings nicht mehr
 unabhängig voneinander.
 
-<img "combined properties in regression" src="figs/20220126_regression-winpercent-products-combined-properties.png?raw=true" width="400">
+<img alt="combined properties in regression" src="figs/20220126_regression-winpercent-products-combined-properties.png?raw=true" width="400">
 
 Die zwei künstlichen Eigenschaften im oberen Teil der Grafik wirken sich
 stärker positiv auf die Beliebtheit aus als die einzelnen Eigenschaften
@@ -110,7 +110,7 @@ darunter.
 Als Bonus kann man auch noch probieren, auf dieselbe Weise den Zuckergehalt der
 einzelnen Süssigkeiten vorherzusagen. Ob das sinnvoll ist, sei dahingestellt.
 
-<img "sugar content in regression" src="figs/20220126_regression-sugarcontent-products-combined-properties.png?raw=true" width="400">
+<img alt="sugar content in regression" src="figs/20220126_regression-sugarcontent-products-combined-properties.png?raw=true" width="400">
 
 Immerhin: *caramel* und *hard* (candy) sagen den relativ höchsten Zuckergehalt
 in den hier verwendeten Produkten voraus.
@@ -121,3 +121,4 @@ in den hier verwendeten Produkten voraus.
 - Für ähnliche Analysen sollte man sicher Verkaufszahlen (Umsatz/Stückzahl) von eigenen Produkten verwenden.
 - Das Labeling der Produktdaten mit den gewünschten Eigenschaften sollte von Hand gemacht werden.
 - Es sollte *Pernigotti Gianduia Nero* permanent eingelistet werden.
+- ...
