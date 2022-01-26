@@ -42,6 +42,7 @@ Was wird gesucht? Gruppen mit möglichst vielen blauen Produkten oder mit
 möglichst vielen roten Punkten, d.h. mit Eigenschaften, die auf beliebte
 Produkte zutreffen und welchen, die auf unbeliebte Produkte zutreffen.
 
+<br>
 <img src="figs/20220126_clusters-products-properties.png" width="400">
 
 
