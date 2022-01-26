@@ -14,7 +14,7 @@ Der Datensatz wird eingelesen und exploriert, dann werden verschiedene Dinge aus
 Um nicht gleich auf die vollen Details gehen zu müssen, teile ich die Produkte
 in drei Gruppen ein: top/medium/bottom (25/50/25%). 
 
-![Produkte und Ranking](figs/20220126_descriptive-products-ranking.png)
+![Produkte und Ranking](<figs/20220126_descriptive-products-ranking.png>)
 
 - Mir sind nicht alle Produkte bekannt :-)
 - Unter den beliebtesten scheinen auch einige der bekanntesten zu sein: Twix,
@@ -40,10 +40,11 @@ Die Daten werden wieder so in Gruppen aufgeteilt wie vorher. Jedes Süssigkeiten
 
 Was wird gesucht? Gruppen mit möglichst vielen blauen Produkten oder mit
 möglichst vielen roten Punkten, d.h. mit Eigenschaften, die auf beliebte
-Produkte zutreffen und welchen, die auf unbeliebte Produkte zutreffen.
+Produkte zutreffen und welchen, die auf unbeliebte Produkte zutreffen. Wenn
+einzelne Gruppen z.B. nur blaue oder nur rote Produkte enthalten, ist die
+zugehörige Eigenschaft ein sehr sicherer Hinweis zur Beliebtheit.
 
-<br>
-<img src="figs/20220126_clusters-products-properties.png" width="400">
+![](<figs/20220126_clusters-products-properties.png>)
 
 
 
@@ -51,3 +52,5 @@ Produkte zutreffen und welchen, die auf unbeliebte Produkte zutreffen.
 ## Regression
 
 ## Weitere Ideen
+
+pernigotti gianduia nero
