@@ -115,13 +115,20 @@ einzelnen Süssigkeiten vorherzusagen. Ob das sinnvoll ist, sei dahingestellt.
 Immerhin: *caramel* und *hard* (candy) sagen den relativ höchsten Zuckergehalt
 in den hier verwendeten Produkten voraus.
 
+## Vorgehensweise für neues Produkt
 
-## Weitere Ideen und Kommentare
+1. Modell wie oben angegeben trainieren (supervised learning)
+2. Eigenschaften des neuen Modells bestimmen (labeled data)
+3. Modell verwenden, um Beliebtheit vorherzusagen (prediction)
+
+## Ideen, Kommentare, Randbedingungen
 
 - Für ähnliche Analysen sollte man sicher Verkaufszahlen (Umsatz/Stückzahl) von
 	eigenen Produkten verwenden.
-- Das Labeling der Produktdaten mit den gewünschten Eigenschaften sollte von
-	Hand gemacht werden.
+- Die Marge auf den Produkten muss natürlich berücksichtigt werden.
+- Falls eine solche Regression (eventuell mit komplexeren Modellen) zum Einsatz
+	kommt, sollte das Labeling der Produktdaten mit den gewünschten Eigenschaften
+	von Hand gemacht werden.
 - Umfragen sind wichtig, um auch negative Präferenzen der Käufer zu bekommen --
 	Umsätze und Verkäufe drücken ja nur positive Präferenzen aus, ich weiss
 	üblicherweise nicht, warum jemand ein Produkt **nicht** kauft.
