@@ -126,6 +126,10 @@ in den hier verwendeten Produkten voraus.
 - Für ähnliche Analysen sollte man sicher Verkaufszahlen (Umsatz/Stückzahl) von
 	eigenen Produkten verwenden.
 - Die Marge auf den Produkten muss natürlich berücksichtigt werden.
+- Es wäre interessant, noch den Hersteller der Produkte mit zu berücksichtigen
+	-- also ob z.B. Produkte von Mars, Ferrero oder Mondelez immer sehr beliebt
+	sind. Dann könnte man sich vielleicht beim Einlisten oder beim Kreieren einer
+	neuen Süssigkeit auf einen bestimmten Hersteller verlassen.
 - Falls eine solche Regression (eventuell mit komplexeren Modellen) zum Einsatz
 	kommt, sollte das Labeling der Produktdaten mit den gewünschten Eigenschaften
 	von Hand gemacht werden.
