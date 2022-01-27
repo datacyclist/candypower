@@ -133,4 +133,4 @@ in den hier verwendeten Produkten voraus.
 	Umsätze und Verkäufe drücken ja nur positive Präferenzen aus, ich weiss
 	üblicherweise nicht, warum jemand ein Produkt **nicht** kauft.
 - Es sollte *Pernigotti Gianduia Nero* permanent eingelistet werden.
-- ...
+- (to be continued)
