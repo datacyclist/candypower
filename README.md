@@ -117,9 +117,9 @@ in den hier verwendeten Produkten voraus.
 
 ## Vorgehensweise für neues Produkt
 
-1. Modell wie oben angegeben trainieren (supervised learning)
-2. Eigenschaften des neuen Modells bestimmen (labeled data)
-3. Modell verwenden, um Beliebtheit vorherzusagen (prediction)
+1. Modell wie oben angegeben auf existierenden Beliebtheitsdaten trainieren (supervised learning)
+2. Eigenschaften des neuen gewünschten Produkts bestimmen (labeled data)
+3. Modell verwenden, um Beliebtheit des neuen Produkts vorherzusagen (prediction)
 
 ## Ideen, Kommentare, Randbedingungen
 
