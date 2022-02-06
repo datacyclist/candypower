@@ -1,4 +1,5 @@
 # VSG, Case Study
+Datenauswertung zur Bestimmung von Süsswaren-Beliebtheit
 
 Die Beliebtheit von Süsswaren soll ermittelt werden. Es stehen dazu
 Beispieldaten von
