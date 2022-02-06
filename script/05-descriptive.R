@@ -15,8 +15,8 @@ source("01-read-data.R")
 dfranking <- dat %>%
 				select(competitorname, winpercent) %>%
 				mutate(
-							 winpercent_colors = cut(winpercent, labels=c('#E60A14', '#FFF000', '#0050AA'), breaks=quantile(winpercent, probs=c(0,0.33,0.67,1)),include.lowest=TRUE),
-							 winpercent_class = cut(winpercent, labels=c('bottom', 'medium', 'top'), breaks=quantile(winpercent, probs=c(0,0.33,0.67,1)),include.lowest=TRUE)
+							 winpercent_colors = cut(winpercent, labels=c('#E60A14', '#FFF000', '#0050AA'), breaks=quantile(winpercent, probs=c(0,0.25,0.75,1)),include.lowest=TRUE),
+							 winpercent_class = cut(winpercent, labels=c('bottom', 'medium', 'top'), breaks=quantile(winpercent, probs=c(0,0.25,0.75,1)),include.lowest=TRUE)
 							 ) %>%
 				mutate(competitorname = fct_reorder(competitorname, winpercent))
 
